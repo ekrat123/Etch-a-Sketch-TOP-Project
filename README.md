@@ -18,9 +18,3 @@ You can check out the live demo of the project [here](https://ekrat123.github.io
 ## Technologies
 
 The project is built using HTML, CSS, and JavaScript.
-
-## Installation
-
-To run the application locally, follow these steps:
-
-1. Clone the repository:
